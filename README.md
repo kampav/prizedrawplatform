@@ -2,6 +2,10 @@
 
 A modern, full-stack application for managing and participating in premium prize draws. This platform consists of an Admin Dashboard for campaign management and a Customer-facing application for browsing and entering draws.
 
+<img width="744" height="1329" alt="image" src="https://github.com/user-attachments/assets/f8ec7e72-f8b6-445f-a2d0-499b5c4a1b51" />
+<img width="1616" height="1253" alt="image" src="https://github.com/user-attachments/assets/d33953a6-798e-4ac9-be1b-f548511b96a8" />
+
+
 ## 🚀 Features
 
 ### Admin Application
