@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .btn-lloyds {
+        @apply bg-lloyds-green text-white font-bold py-3 px-6 rounded-lg shadow-md hover:bg-lloyds-dark transition-all transform active:scale-95 text-center block w-full;
+    }
+}
